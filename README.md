@@ -1,2 +1,2 @@
-# michigan_web_design.githib.io
+# chian88.github.io
 website for web design course in coursera
